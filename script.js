@@ -15,6 +15,7 @@ async function main() {
 
   //?   await fs.appendFile(fullPath, user);
 
+  //!   await fs.unlink(fullPath);
 
   // ! await fs.rmdir(fullPath);
 
